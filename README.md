@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmed👋
 
 
-I like Software Engineerin, and Data Science!
+I like Software Engineering, and Data Science!
 
 <!--
 **not9ahmed/not9ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
